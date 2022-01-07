@@ -33,6 +33,7 @@ section{
 } 
 .top-banner{
     background-image: url(images/pictures/top-banner\ \(1\).png);
+    background-repeat: no-repeat;
 }
 h3{
     color: black;
